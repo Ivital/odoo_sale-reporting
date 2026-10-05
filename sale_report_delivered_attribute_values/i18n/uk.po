@@ -37,3 +37,12 @@ msgstr "Значення атрибута"
 #: model_terms:ir.ui.view,arch_db:sale_report_delivered_attribute_values.view_sale_report_delivered_search
 msgid "Attribute Values"
 msgstr "Значення атрибутів"
+
+#. module: sale_report_delivered_attribute_values
+#: model:ir.model.fields,help:sale_report_delivered_attribute_values.field_sale_report_delivered__all_product_attribute_value_ids
+msgid ""
+"All Product Attribute Values used directly or indirectly for this line.\n"
+"Contains information about increased price, html color, etc."
+msgstr ""
+"Усі значення атрибутів товару, використані прямо або опосередковано для цього рядка.\n"
+"Містить інформацію про збільшення ціни, HTML-колір тощо."

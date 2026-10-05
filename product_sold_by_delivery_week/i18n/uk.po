@@ -30,3 +30,13 @@ msgstr "Щотижневі продані та доставлені"
 #: model:ir.actions.server,name:product_sold_by_delivery_week.ir_cron_recalculate_all_weekly_sold_delivered_ir_actions_server
 msgid "Recalculate Weekly Delivered Products"
 msgstr "Перерахувати щотижнево доставлені товари"
+
+#. module: product_sold_by_delivery_week
+#: model:res.groups,name:product_sold_by_delivery_week.group_weekly_selling_order_line
+msgid "Weekly selling info in order lines"
+msgstr "Щотижнева інформація про продажі в рядках замовлення"
+
+#. module: product_sold_by_delivery_week
+#: model:res.groups,name:product_sold_by_delivery_week.group_weekly_selling_product_list
+msgid "Weekly selling info in product list"
+msgstr "Щотижнева інформація про продажі в списку товарів"

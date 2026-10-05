@@ -18,3 +18,8 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:sale_report_delivered_semaphore.view_sale_report_delivered_search
 msgid "Semaphore"
 msgstr "Семафор"
+
+#. module: sale_report_delivered_semaphore
+#: model:ir.model,name:sale_report_delivered_semaphore.model_sale_report_delivered
+msgid "Sales Delivered Analysis Report"
+msgstr "Звіт аналізу доставлених продажів"
