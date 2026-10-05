@@ -50,3 +50,21 @@ msgid "Uncheck this if you want to hide the subtotal on section part"
 msgstr ""
 "Зніміть прапорець, якщо потрібно приховати проміжний підсумок у частині "
 "секції"
+
+#. module: sale_layout_category_hide_detail
+#. odoo-javascript
+#: code:addons/sale_layout_category_hide_detail/static/src/js/boolean_fa_icon_widget.esm.js:0
+msgid "Switch to: details hidden"
+msgstr "Перемкнути: деталі приховано"
+
+#. module: sale_layout_category_hide_detail
+#. odoo-javascript
+#: code:addons/sale_layout_category_hide_detail/static/src/js/boolean_fa_icon_widget.esm.js:0
+msgid "Switch to: details shown"
+msgstr "Перемкнути: деталі показано"
+
+#. module: sale_layout_category_hide_detail
+#. odoo-javascript
+#: code:addons/sale_layout_category_hide_detail/static/src/js/boolean_fa_icon_widget.esm.js:0
+msgid "Toggle"
+msgstr "Перемкнути"
