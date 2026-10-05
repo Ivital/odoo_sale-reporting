@@ -128,3 +128,88 @@ msgstr "Статус"
 #: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__volume
 msgid "Volume"
 msgstr "Об’єм"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__country_id
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Customer Country"
+msgstr "Країна клієнта"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__commercial_partner_id
+msgid "Customer Entity"
+msgstr "Організація клієнта"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__industry_id
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Customer Industry"
+msgstr "Галузь клієнта"
+
+#. module: sale_report_delivered
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Extended Filters"
+msgstr "Розширені фільтри"
+
+#. module: sale_report_delivered
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Group By"
+msgstr "Групувати за"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__margin
+msgid "Margin delivered"
+msgstr "Маржа доставленого"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__name
+msgid "Order Reference"
+msgstr "Посилання на замовлення"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__categ_id
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Product Category"
+msgstr "Категорія товару"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__product_id
+msgid "Product Variant"
+msgstr "Варіант товару"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields.selection,name:sale_report_delivered.selection__sale_report_delivered__state__draft
+msgid "Quotation"
+msgstr "Комерційна пропозиція"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields.selection,name:sale_report_delivered.selection__sale_report_delivered__state__sent
+msgid "Quotation Sent"
+msgstr "Комерційну пропозицію надіслано"
+
+#. module: sale_report_delivered
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_pivot
+msgid "Sales Analysis"
+msgstr "Аналіз продажів"
+
+#. module: sale_report_delivered
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Sales Orders"
+msgstr "Замовлення на продаж"
+
+#. module: sale_report_delivered
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_graph
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Sales analysis from deliveries"
+msgstr "Аналіз продажів за доставками"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__user_from_partner_id
+#: model_terms:ir.ui.view,arch_db:sale_report_delivered.view_sale_report_delivered_search
+msgid "Salesperson From Partner"
+msgstr "Продавець від контрагента"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__product_uom
+msgid "Unit of Measure"
+msgstr "Одиниця вимірювання"

@@ -12,3 +12,8 @@ msgstr ""
 #: model:ir.module.module,summary:base.module_sale_order_report_hide_tax
 msgid "Hide taxes column when they don't add value"
 msgstr "Приховує колонку податків, коли вона не несе корисної інформації"
+
+#. module: sale_order_report_hide_tax
+#: model:ir.model.fields,field_description:sale_order_report_hide_tax.field_sale_order__show_tax_column_in_report
+msgid "Show Tax Column In Report"
+msgstr "Показувати колонку податку у звіті"

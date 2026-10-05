@@ -17,3 +17,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_order_product_recommendation_product_sold_by_delivery_week.field_sale_order_recommendation_line__weekly_sold_delivered_shown
 msgid "Weekly Sold"
 msgstr "Продано за тиждень"
+
+#. module: sale_order_product_recommendation_product_sold_by_delivery_week
+#: model:ir.model.fields,field_description:sale_order_product_recommendation_product_sold_by_delivery_week.field_sale_order_recommendation_line__qty_available
+msgid "Qty. On Hand"
+msgstr "Кількість у наявності"
