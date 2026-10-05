@@ -213,3 +213,33 @@ msgstr "Продавець від контрагента"
 #: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__product_uom
 msgid "Unit of Measure"
 msgstr "Одиниця вимірювання"
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__margin_percent
+msgid "Margin delivered(%)"
+msgstr "Маржа доставленого (%)"
+
+#. module: sale_report_delivered
+#: model:ir.actions.act_window,name:sale_report_delivered.action_sale_report_delivered
+msgid "Sales Analysis From Deliveries"
+msgstr "Аналіз продажів за доставками"
+
+#. module: sale_report_delivered
+#: model_terms:ir.actions.act_window,help:sale_report_delivered.action_sale_report_delivered
+msgid ""
+"This report performs analysis on your sales orders from deliveries. Analysis"
+" check your sales revenues and sort it by different group criteria "
+"(salesman, partner, product, etc.) Use this report to perform analysis on "
+"sales not having invoiced yet. If you want to analyse your turnover, you "
+"should use the Invoice Analysis report in the Accounting application."
+msgstr ""
+"Цей звіт аналізує замовлення на продаж на основі доставок. Аналіз перевіряє "
+"дохід від продажів і групує його за різними критеріями (продавець, "
+"контрагент, товар тощо). Використовуйте цей звіт для аналізу продажів, за "
+"якими ще не виставлено рахунки. Якщо потрібно проаналізувати оборот, "
+"використовуйте звіт «Аналіз рахунків» у застосунку «Бухгалтерський облік»."
+
+#. module: sale_report_delivered
+#: model:ir.model.fields,field_description:sale_report_delivered.field_sale_report_delivered__price_subtotal
+msgid "Untaxed total delivered"
+msgstr "Доставлено без податків, усього"

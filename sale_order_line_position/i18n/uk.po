@@ -39,3 +39,18 @@ msgstr "Поз."
 #: model:ir.model.fields,field_description:sale_order_line_position.field_sale_order_line__position_formatted
 msgid "Position Formatted"
 msgstr "Відформатована позиція"
+
+#. module: sale_order_line_position
+#: model_terms:ir.ui.view,arch_db:sale_order_line_position.res_config_settings_view_form
+msgid "Do not recompute positions when line is removed"
+msgstr "Не перераховувати позиції при видаленні рядка"
+
+#. module: sale_order_line_position
+#: model:ir.actions.server,name:sale_order_line_position.action_compute_sale_position
+msgid "Recompute positions"
+msgstr "Перерахувати позиції"
+
+#. module: sale_order_line_position
+#: model_terms:ir.ui.view,arch_db:sale_order_line_position.res_config_settings_view_form
+msgid "Sale Order Line Positions"
+msgstr "Позиції рядків замовлення на продаж"

@@ -17,3 +17,14 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:sale_order_weight.report_saleorder_document
 msgid "Weight"
 msgstr "Вага"
+
+#. module: sale_order_weight
+#: model_terms:ir.ui.view,arch_db:sale_order_weight.report_saleorder_document
+msgid ""
+"<span>\n"
+"                    <b>Total Weight:</b>\n"
+"                </span>"
+msgstr ""
+"<span>\n"
+"                    <b>Загальна вага:</b>\n"
+"                </span>"
